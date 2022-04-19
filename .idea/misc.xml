@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/etana/StudioProjects/ShoppingMall/app/src/main/res/drawable-v24/fav_unselected_bg.xml" value="0.1375" />
+        <entry key="..\:/Users/etana/StudioProjects/ShoppingMall/app/src/main/res/drawable/category_bg.xml" value="0.1375" />
+        <entry key="..\:/Users/etana/StudioProjects/ShoppingMall/app/src/main/res/drawable/category_selected.xml" value="0.1375" />
+        <entry key="..\:/Users/etana/StudioProjects/ShoppingMall/app/src/main/res/drawable/category_unselected.xml" value="0.1375" />
+        <entry key="..\:/Users/etana/StudioProjects/ShoppingMall/app/src/main/res/drawable/circle.xml" value="0.1275" />
+        <entry key="..\:/Users/etana/StudioProjects/ShoppingMall/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.1375" />
+        <entry key="..\:/Users/etana/StudioProjects/ShoppingMall/app/src/main/res/drawable/ic_baseline_notifications_none_24.xml" value="0.1375" />
+        <entry key="..\:/Users/etana/StudioProjects/ShoppingMall/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1375" />
+        <entry key="..\:/Users/etana/StudioProjects/ShoppingMall/app/src/main/res/drawable/nav_item_color_state.xml" value="0.172" />
+        <entry key="..\:/Users/etana/StudioProjects/ShoppingMall/app/src/main/res/drawable/search_view_bg.xml" value="0.1375" />
+        <entry key="..\:/Users/etana/StudioProjects/ShoppingMall/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/etana/StudioProjects/ShoppingMall/app/src/main/res/layout/activity_main_mall.xml" value="0.25" />
+        <entry key="..\:/Users/etana/StudioProjects/ShoppingMall/app/src/main/res/layout/category_item.xml" value="0.4" />
+        <entry key="..\:/Users/etana/StudioProjects/ShoppingMall/app/src/main/res/layout/fragment_cart.xml" value="0.25" />
+        <entry key="..\:/Users/etana/StudioProjects/ShoppingMall/app/src/main/res/layout/fragment_favorite.xml" value="0.25" />
+        <entry key="..\:/Users/etana/StudioProjects/ShoppingMall/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/etana/StudioProjects/ShoppingMall/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Users/etana/StudioProjects/ShoppingMall/app/src/main/res/layout/product_item.xml" value="0.25" />
+        <entry key="..\:/Users/etana/StudioProjects/ShoppingMall/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
